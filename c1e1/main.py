@@ -1,1 +1,6 @@
-print('Hola Mundo! Mi nombre es Juan Angarita, tengo 21 años y estudio ingenieria de producción en la UNIMET')
+nombre = "Juan Angarita"
+edad = 21
+carrera = "Ingenieria de Producción"
+
+
+print(f'Hola Mundo! Mi nombre es {nombre}, tengo {edad} años y estudio {carrera} en la UNIMET')
